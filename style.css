@@ -1,0 +1,23 @@
+
+.parallax img{
+    width: 1200px;
+    height: 1200px;
+}
+
+.about{
+  width: 300px;
+  position: absolute;
+  top: 500px;
+  left: 50%;
+  margin-left: -150px;
+  
+}
+
+.services{
+    margin-top: 200px;
+    padding: 20px 0;
+}
+
+.card img{
+    height: 200px;
+}
